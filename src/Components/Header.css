@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: lightblue;
+    padding-left: 10px;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+ul li{
+    padding: 3px 5px;
+    font-size: 18px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+.MainHeading{
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 20px;
+}
