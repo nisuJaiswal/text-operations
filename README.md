@@ -11,7 +11,7 @@ Run following command to install all the dependencies
 npm i
 ```
 
-
+And start the project as any react app by running the following command
 ```ruby
 npm start
 ```
